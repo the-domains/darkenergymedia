@@ -1,0 +1,28 @@
+name: darkenergymedia
+favicon: null
+layout_spectrum: 0.5962813792284578
+typography_spectrum: 0.6151567129418254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6710486041847616
+  lightness: 0.008078232174739242
+  saturation: 0.6849287352524698
+  rhythmicContrast: 0.5685122136492282
+purpose: []
