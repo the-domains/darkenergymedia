@@ -1,6 +1,6 @@
 name: darkenergymedia
 favicon: null
-layout_spectrum: 0.75275
+layout_spectrum: 0.45934
 typography_spectrum: 0.23969
 title: darkenergymedia v4.0
 cta:
@@ -22,8 +22,8 @@ color:
     - '#f7911e'
     - '#bab9b9'
     - '#fde2c4'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.6849287352524698
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
